@@ -1,0 +1,6 @@
+name: Lobby
+version: '${project.version}'
+main: de.twyco.lobby.Lobby
+api-version: '1.20'
+authors: [Twyco]
+description: Lobby system
